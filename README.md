@@ -14,15 +14,15 @@ Java Pacman Game
 </a>
 
 <h2>New Features</h2>
-* The project codes were revamped with a new architectural approach.
-* A larger and new map has been added.
-* Large and differently colored Pacman and ghost images were added.
-* When Pacman dies, a heart appears in a random region of the map.
-* Immortality mode has been added.
-* Monster mode has been added.
-* Level added.
-* New screens added.
-* FPS (frames per second) added.
+*  The project codes were revamped with a new architectural approach.
+*  A larger and new map has been added.
+*  Large and differently colored Pacman and ghost images were added.
+*  When Pacman dies, a heart appears in a random region of the map.
+*  Immortality mode has been added.
+*  Monster mode has been added.
+*  Level added.
+*  New screens added.
+*  FPS (frames per second) added.
 
 <h2>🛠️ Clone This Project</h2>
 
