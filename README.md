@@ -14,6 +14,7 @@ Java Pacman Game
 </a>
 
 <h2>New Features</h2>
+
 *  The project codes were revamped with a new architectural approach.
 *  A larger and new map has been added.
 *  Large and differently colored Pacman and ghost images were added.
