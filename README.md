@@ -27,15 +27,15 @@ Java Pacman Game
 <h2>🛠️ Clone This Project</h2>
 
 ```bash
-   git clone https://link-to-project
+   git clone https://github.com/EmreToklu00/JavaPacmanGame.git
 ```
 
 <h2>💻 Project Screenshots:</h2>
 
-<img src="https://github.com/EmreToklu00/JavaPacmanGame/Github/welcome.png" alt="project-screenshot" width="400" height="400/">
-<img src="https://github.com/EmreToklu00/JavaPacmanGame/Github/ingame.png" alt="project-screenshot" width="400" height="400/">
-<img src="https://github.com/EmreToklu00/JavaPacmanGame/Github/newheart.png" alt="project-screenshot" width="400" height="400/">
-<img src="https://github.com/EmreToklu00/JavaPacmanGame/Github/immortalmode.png" alt="project-screenshot" width="400" height="400/">
-<img src="https://github.com/EmreToklu00/JavaPacmanGame/Github/beastmode.png" alt="project-screenshot" width="400" height="400/">
-<img src="https://github.com/EmreToklu00/JavaPacmanGame/Github/youwin.png" alt="project-screenshot" width="400" height="400/">
-<img src="https://github.com/EmreToklu00/JavaPacmanGame/Github/gameover.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/EmreToklu00/JavaPacmanGame/blob/master/Github/welcome.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/EmreToklu00/JavaPacmanGame/blob/master/Github/ingame.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/EmreToklu00/JavaPacmanGame/blob/master/Github/newheart.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/EmreToklu00/JavaPacmanGame/blob/master/Github/immortalmode.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/EmreToklu00/JavaPacmanGame/blob/master/Github/beastmode.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/EmreToklu00/JavaPacmanGame/blob/master/Github/youwin.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/EmreToklu00/JavaPacmanGame/blob/master/Github/gameover.png" alt="project-screenshot" width="400" height="400/">
